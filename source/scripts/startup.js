@@ -78,7 +78,6 @@ function onScroll(e) {
     }
     clearScrollTimeout();
     previousScroll = h;
-    crumbsOnScroll(h);
 }
 
 function startup() {
@@ -87,7 +86,6 @@ function startup() {
     ipadOrient();
     prepareBrowsers();
     prepareForm();
-    prepareSearch();
     onOrient(true);
     onResize();
     onScroll();
@@ -104,8 +102,6 @@ function startup() {
 function onResize() {
     if (isDevice())
         return;
-
-    recalcViewerParameters();
 }
 
 function onDeviceResize() {
