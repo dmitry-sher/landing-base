@@ -1,6 +1,6 @@
 {
-  "name": "foodie-nyc-landing",
-  "description": "Foodie NYC bot landing",
+  "name": "landing",
+  "description": "",
   "version": "0.0.1",
   "dependencies": {
     "animate.css": "^3.5.2",
