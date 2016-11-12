@@ -1,0 +1,29 @@
+{
+  "name": "foodie-nyc-landing",
+  "description": "Foodie NYC bot landing",
+  "version": "0.0.1",
+  "dependencies": {
+    "animate.css": "^3.5.2",
+    "babel": "^6.5.2",
+    "babel-cli": "^6.18.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-es2016": "^6.16.0",
+    "babel-preset-es2017": "^6.16.0",
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-clean": "^0.3.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-file-include": "^1.0.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.2.0",
+    "gulp-sourcemaps": "^2.2.0",
+    "gulp-uglifyjs": "^0.6.2",
+    "gulp-watch": "^4.3.5",
+    "node-bourbon": "^4.2.3",
+    "node-neat": "^1.7.2",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}

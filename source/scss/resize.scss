@@ -1,0 +1,30 @@
+@import "vars";
+@import "bourbon";
+@media screen and (max-width: 959px) {
+    html {
+        font-size: 96px;
+    }
+    .wrap {
+        min-width: 960px;
+    }
+}
+
+@media screen and (max-width: 1439px) and (min-width: 960px) {
+    html {
+        font-size: 10vw;
+    }
+    .wrap {
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 1440px) {
+    html {
+        font-size: 144px;
+    }
+    .wrap {
+        width: 1440px;
+        max-width: 1440px;
+        margin: 0 auto;
+    }
+}

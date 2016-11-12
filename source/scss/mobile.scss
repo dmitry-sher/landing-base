@@ -1,0 +1,10 @@
+@import "vars";
+@import "bourbon";
+@media screen and (max-device-width: 768px) {
+    html {
+        font-size: 10vw;
+    }
+    .wrap {
+        min-width: 100px;
+    }
+}
