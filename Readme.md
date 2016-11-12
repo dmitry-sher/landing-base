@@ -1,6 +1,6 @@
-# NYC Foodie Bot Legal Landing
+# Project name
 
-**TBD** — To-Be-Decided  
+**TBD** — To-Be-Decided
 **WIP** — Work-In-Progress
 
 ## 1. Ссылки на ресурсы проекта
